@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:51.720424
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:35
 #+TITLE: 佛說善夜經
 #+PROPERTY: CBETA_ID T21n1362
 #+PROPERTY: ID KR6j0592
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1362
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0592_T_001-0881c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1362¶
-
- 佛說善夜經一卷¶
+No. 1362¶
+佛說善夜經一卷¶
 ¶
 唐三藏法師義淨奉　制譯¶
 
@@ -60,9 +59,9 @@ No.1362¶
 　常願諸有情
 　離苦獲安樂¶
 　不造諸惡業
-　恒修於眾善
+　恒修於眾善」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊為欲利益一切眾生。令於長夜得¶
 安隱樂離諸障惱。於生生處增長善根。常遇¶
@@ -112,9 +111,9 @@ No.1362¶
 　又復有明呪
 　若能讀誦者¶
 　於一切時中
-　長善滅諸惡
+　長善滅諸惡」
 #+END_VERSE
-」¶
+¶
 
 即說呪曰。¶
 
